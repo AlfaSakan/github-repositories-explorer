@@ -31,7 +31,7 @@ Follow these steps to install and run the project locally:
 ## Folder Structure
 
 ```
-app/
+src/
 │-- components/
 │   │-- atoms/
 │   │-- molecules/
