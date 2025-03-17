@@ -1,5 +1,5 @@
 import { ChevronDownIcon, StarIcon } from "lucide-react";
-import type { User } from "~/models/user.model";
+import type { User } from "../../models/user.model";
 
 type Props = {
   onToggle?: VoidFunction;
